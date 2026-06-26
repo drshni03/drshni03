@@ -32,7 +32,3 @@ Currently, I'm learning and building projects using React, Firebase, Three.js, a
 
 🤖 AI & Interactive Web Experiences
 
-## 📫 Connect With Me
-
-- LinkedIn: https://linkedin.com/in/YOURUSERNAME
-- Portfolio: https://YOURVERCEL.vercel.app
